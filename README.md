@@ -29,7 +29,7 @@ In the AS-IS process:
 ---
 
 ## 📌 AS-IS Process (Before)
-![AS-IS Diagram](./AS-IS.png)
+![AS-IS Diagram](./AS IS.drawio.png)
 
 ---
 
@@ -39,7 +39,7 @@ Automation introduced:
 - Decision Engine routing (auto vs manual)
 - Exception handling only for RED status or >12 months
 
-![TO-BE Diagram](./TO-BE.png)
+![TO-BE Diagram](./TO BE.drawio.png)
 
 ---
 
@@ -47,7 +47,7 @@ Automation introduced:
 Checklist Evaluation & Routing Logic  
 (How LOS backend determines whether to auto-disburse or route to manual review)
 
-![UML Sequence](./UML.png)
+![UML Sequence](./UML - LOS.png)
 
 ---
 
