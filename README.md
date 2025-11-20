@@ -1,10 +1,10 @@
-# Micro-Segment Loan Issuance Automation in LOS System
+# Loan Issuance Automation in LOS System
 **Business Analysis | Process Optimization | BPMN | UML | Automation Logic**
 
 ---
 
 ## 🎯 Goal
-Optimize the micro-segment loan issuance process and **automate second and subsequent loan disbursements**, provided that:
+Optimize the loan issuance process and **automate second and subsequent loan disbursements**, provided that:
 - the first loan’s issuance date is **within the last 12 months**, and  
 - the first loan’s checklist status was **not RED**.
 
