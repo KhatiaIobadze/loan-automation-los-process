@@ -12,7 +12,7 @@ Optimize the loan issuance process and **automate second and subsequent loan dis
 
 ## 🚩 Problem (Before Automation)
 In the AS-IS process:
-- **100% of repeat loans** were routed to **manual review** by Credit Administration.
+- **100% of repeat loans** were routed to **manual review** by Credit Risk and Credit Administration.
 - Operators manually checked: documents, collateral, tax arrears, scoring, bureau, restrictions.
 - SLA violations and bottlenecks were frequent.
 - The process was slow, error-prone, and not scalable.
