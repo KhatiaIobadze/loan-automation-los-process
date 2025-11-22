@@ -43,11 +43,3 @@ Automation introduced:
 
 ---
 
-## 📌 UML Sequence Diagram – LOS Internal Logic
-Checklist Evaluation & Routing Logic  
-(How LOS backend determines whether to auto-disburse or route to manual review)
-
-![UML Sequence](./UML.png)
-
----
-
