@@ -1,5 +1,5 @@
 # Loan Issuance Automation in LOS System
-**Business Analysis | Process Optimization | BPMN **
+**Business Analysis | Process Optimization | BPMN**
 
 ---
 
